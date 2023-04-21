@@ -1,0 +1,3 @@
+git init
+git config core.editor subl
+git config core.editor "subl -n -w"
